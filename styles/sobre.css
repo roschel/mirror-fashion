@@ -1,7 +1,32 @@
 body{
-    font-family: Arial, Helvetica, sans-serif;
+  color: #333333;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-figure figcaption{
-    font-size: 10px;
+p{
+  text-align: left;
+  letter-spacing: 3px;
+  word-spacing: 3px;
+  text-indent: 30px;
+}
+
+h1{
+  background-image: url(../img/sobre-background.jpg);
+  border: 1px solid rgb(22, 167, 94);
+  border-radius: 10px;
+  text-align: center;
+}
+
+h2{
+  border-bottom: 2px solid #333333;
+}
+
+figure{
+  background: #F2EDED;
+  border: 1px solid grey;
+  text-align: center;
+}
+
+figcaption{
+  font-style: italic;
 }
