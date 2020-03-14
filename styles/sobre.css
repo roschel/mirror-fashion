@@ -14,8 +14,8 @@ p{
 }
 
 p:hover{
-  color: rgba(255,0,0,0.9);
-  transition: 10s;
+  color: rgb(255,0,0);
+  transition: 2s;
 }
 
 h1{
