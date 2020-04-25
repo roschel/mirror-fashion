@@ -17,6 +17,10 @@ p::first-letter{
   font-weight: bold;
 }
 
+p::first-line{
+  font-variant: small-caps;
+}
+
 h1{
   background-image: url(../img/sobre-background.jpg);
   border: 1px solid rgb(22, 167, 94);
